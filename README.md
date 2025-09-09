@@ -1,4 +1,5 @@
 ## Personal vial config for silakka54
+![Keyboard](./images/kbd.png)
 
 ### Layers
 ##### Base layer:
