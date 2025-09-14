@@ -7,3 +7,9 @@
 
 ##### Layer 1:
 ![Layer 1](./images/layer_1.png)
+
+##### Layer 2:
+![Layer 1](./images/layer_2.png)
+
+##### Layer 3:
+![Layer 1](./images/layer_3.png)
